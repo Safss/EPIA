@@ -1,0 +1,7 @@
+Rota #1 0 2 3 4 5 0 custo: -1 demanda atendida: 65
+Rota #2 0 2 3 4 5 0 custo: -1 demanda atendida: 65
+Rota #3 0 2 3 4 5 0 custo: -1 demanda atendida: 65
+Rota #4 0 2 3 4 5 0 custo: -1 demanda atendida: 65
+Rota #5 0 2 3 4 5 0 custo: -1 demanda atendida: 65
+Custo: -1
+Tempo: 3599.0
